@@ -6,27 +6,29 @@
 </head>
 <body>
 
-    <header>
-        <h1>🏠 GharTak</h1>
-        <p>Har Zaroorat, Aapke Ghar Tak</p>
-    </header>
+<header>
+    <h1>🏠 GharTak</h1>
+    <p>Har Zaroorat, Aapke Ghar Tak</p>
+</header>
 
-    <div class="container">
-        <div class="products">
-            <h3>Available Products</h3>
+<div class="container">
+    <div class="products">
+        <h2>5-10 Minute Delivery</h2>
 
-            <ul>
-                <li>🥛 Milk</li>
-                <li>🍞 Bread</li>
-                <li>🥚 Eggs</li>
-                <li>🥤 Cold Drinks</li>
-                <li>🍟 Snacks</li>
-                <li>🍨 Ice Cream</li>
-            </ul>
+        <h3>Available Products</h3>
 
-            <p>📞 Contact: Coming Soon</p>
-        </div>
+        <ul>
+            <li>🥛 Milk</li>
+            <li>🍞 Bread</li>
+            <li>🥚 Eggs</li>
+            <li>🥤 Cold Drinks</li>
+            <li>🍟 Snacks</li>
+            <li>🍨 Ice Cream</li>
+        </ul>
+
+        <p>📞 Contact: Coming Soon</p>
     </div>
+</div>
 
 </body>
 </html>
