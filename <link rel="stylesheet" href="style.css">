@@ -1,9 +1,13 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>GharTak</title>
+<title>GharTak</title>
+<link rel="stylesheet" href="style.css">
 </head>
 <body>
+...
+</body>
+</html>
 
 <h1>🏠 GharTak</h1>
 
