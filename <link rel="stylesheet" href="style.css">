@@ -1,32 +1,32 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>GharTak</title>
-<link rel="stylesheet" href="style.css">
+    <title>GharTak</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
-...
-</body>
-</html>
 
-<h1>🏠 GharTak</h1>
+    <header>
+        <h1>🏠 GharTak</h1>
+        <p>Har Zaroorat, Aapke Ghar Tak</p>
+    </header>
 
-<h2>Har Zaroorat, Aapke Ghar Tak</h2>
+    <div class="container">
+        <div class="products">
+            <h3>Available Products</h3>
 
-<p>5-10 Minute Delivery</p>
+            <ul>
+                <li>🥛 Milk</li>
+                <li>🍞 Bread</li>
+                <li>🥚 Eggs</li>
+                <li>🥤 Cold Drinks</li>
+                <li>🍟 Snacks</li>
+                <li>🍨 Ice Cream</li>
+            </ul>
 
-<h3>Available Products</h3>
-
-<ul>
-  <li>🥛 Milk</li>
-  <li>🍞 Bread</li>
-  <li>🥚 Eggs</li>
-  <li>🥤 Cold Drinks</li>
-  <li>🍟 Snacks</li>
-  <li>🍨 Ice Cream</li>
-</ul>
-
-<p>📞 Contact: Coming Soon</p>
+            <p>📞 Contact: Coming Soon</p>
+        </div>
+    </div>
 
 </body>
 </html>
